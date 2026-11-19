@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @Mekatik
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hello, I'm Mekatik
 
-<!---
-Mekatik1997/Mekatik1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Developer | Tech Enthusiast | Digital Creator**
+
+- 🌐 Web Development & UI/UX Design
+- 💻 Software, Windows & System Customization
+- 📱 Android & Arduino Projects
+- 🎬 Anime Fansub & Japanese Localization
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `PHP` `MySQL` `Python` `Arduino`
+
+---
+
+🌍 Website: [mekatik.my.id](https://mekatik.my.id)
+
+💻 GitHub: [@Mekatik1997](https://github.com/Mekatik1997)
+
+<p align="center">
+  <sub>Building ideas into reality. — Mekatik</sub>
+</p>
