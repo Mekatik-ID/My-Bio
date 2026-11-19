@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Mekatik
+# I'm Mekatik
 
 **Developer | Tech Enthusiast | Digital Creator**
 
